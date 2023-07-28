@@ -32,6 +32,7 @@ button {
     
 }
 
+img {float: left;}
 .cheeky:hover {
     font-size: 60px;
     text-decoration: underline overline black;
