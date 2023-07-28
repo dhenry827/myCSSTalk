@@ -1,0 +1,39 @@
+
+body {
+    background-color: aliceblue;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    flex: wrap;
+    justify-content: center;
+    flex: 30%;
+}
+
+.header {
+    text-decoration: underline;
+}
+.intro {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center
+}
+
+button {
+    background-color: limegreen;
+    border: solid;
+    border-radius: 40%;
+    margin: 10px;
+    height: 30px;
+    width: 300px;
+    font-size: 21px;
+    
+}
+
+.cheeky:hover {
+    font-size: 60px;
+    text-decoration: underline overline black;
+    color: red;
+}
