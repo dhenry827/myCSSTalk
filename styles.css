@@ -29,10 +29,19 @@ button {
     height: 30px;
     width: 300px;
     font-size: 21px;
-    
 }
 
-img {float: left;}
+
+
+img {float: left;
+}
+/*float property places elements to the left or right of their container so that and allows for text to wrap around them
+    float: none; does not allow element to float
+    float: right; floats element to the right of it container
+    float: left; floats an element to the left of it's container
+    float: inline-start; the element floats on the starting side of container
+    float: inline-end; the element floats at the end of it's container*/
+
 .cheeky:hover {
     font-size: 60px;
     text-decoration: underline overline black;
